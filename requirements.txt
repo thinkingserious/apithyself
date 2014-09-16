@@ -1,0 +1,7 @@
+Flask==0.10.1
+flask-sqlalchemy==1.0
+flask-migrate==1.2.0
+psycopg2==2.5.4
+Flask-RESTful==0.2.12
+Flask-Script==0.6.7
+requests==2.2.1

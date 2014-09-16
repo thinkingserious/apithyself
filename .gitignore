@@ -1,0 +1,13 @@
+# Python
+*.pyc
+
+# Virtual Environment
+venv
+
+# IntelliJ
+.idea
+*.iml
+
+# Configuration
+.env
+env
