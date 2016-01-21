@@ -5,7 +5,7 @@ A demonstration of a Personal API.
 I assume you are running postreSQL locally
 
 * Clone this repo
-* `virtualenv venv` # initialize a virtual environment
+* `virtualenv venv` # initialize a virtual environment [only once]
 * `. ./activate.sh` # to activate the virtual environment
 * `pip install -r requirements.txt` # install the dependencies
 * rename `.env_sample` to `.env` and update the credentials
